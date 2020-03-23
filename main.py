@@ -5,3 +5,9 @@ for i in range(x):
     b+=1
 print(b,x)
 
+nome = input("dimmi il tuo nome")
+if nome =="nadir":
+    print("stpendo")
+else:
+    print("brutto")
+
